@@ -28,16 +28,16 @@ We leverage the power of the OpenAI API to enable dynamic question generation an
 
 # Contributors
 Abhishree Tripathi
-Github:
+Github: https://github.com/Abhishree-codes
 
 Tushar Deshmukh
-Github:
+Github: https://github.com/deshmukh-tushar
 
 Pravesh kumar sharma
-Github:
+Github: https://github.com/chiku7296
 
 Akhil Suryan
-Github:[ akhil368](https://github.com/akhil368)https://github.com/akhil368
+Github: https://github.com/akhil368
 
 Sudhist kumar
-Github:
+Github: https://github.com/ersudhist
