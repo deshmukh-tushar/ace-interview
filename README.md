@@ -6,11 +6,21 @@ The AI Interviewer Assistant (Ace-Interview) is an innovative GitHub repository 
 ## Interview Simulator:-
 Our platform allows users to practice for different types of interviews, such as MERN, Node, or Java, by engaging in realistic conversations with an AI interviewer. The AI will dynamically generate relevant questions based on the chosen interview type and adapt its tone and style to create a lifelike interview experience.
 
+![Page-2](https://github.com/deshmukh-tushar/ace-interview/assets/121331538/fc82004d-40e9-45de-98b7-e139c8eab6e6)
+
+![Page-3](https://github.com/deshmukh-tushar/ace-interview/assets/121331538/fcd81203-008d-43db-80ef-7144cd8fb368)
+
+
 ## Personalized Feedback:-
 After each interview simulation, the AI will analyze the student's responses and provide constructive feedback. This feedback will evaluate the content, delivery, and overall performance of the student's answers. It will identify strengths and suggest areas for improvement, including communication skills, technical knowledge, and problem-solving abilities.
 
+![Page-5](https://github.com/deshmukh-tushar/ace-interview/assets/121331538/34fae37b-a59f-48bd-bdaa-991c8d89fca9)
+
 ## Performance Analytics:-
 The platform tracks users' progress over time, presenting them with valuable insights into their interview preparation journey. Users can view success rates in different types of interviews, identify strengths and weaknesses, and monitor their improvement across multiple practice sessions.
+
+
+![Page-6](https://github.com/deshmukh-tushar/ace-interview/assets/121331538/7fda1761-12b9-45a7-b590-6979aeae2d0e)
 
 ## User-Friendly Interface:-
 We have designed a user-friendly web interface that is intuitive, visually appealing, and easy to navigate. Users can focus on their interview preparation without facing any technical issues, ensuring a seamless experience.
