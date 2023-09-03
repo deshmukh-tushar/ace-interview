@@ -1,4 +1,6 @@
 # Ace-interview
+![Page-1](https://github.com/deshmukh-tushar/ace-interview/assets/121331538/4a51f28b-75a1-4f5c-aa2e-68441ddb1620)
+
 The AI Interviewer Assistant (Ace-Interview) is an innovative GitHub repository designed to empower students and job seekers in their journey to excel in interviews.  preparing for your first job interview or a seasoned professional aiming to ace your dream job interview, this project is here to assist you every step of the way.
 # Key Features
 ## Interview Simulator:-
